@@ -3,7 +3,7 @@ title: John Aspinall
 email: john.aspinall73@gmail.com
 url: https://example.github.io
 description: "The peronal website, blog and portfolio of work for John Aspinall."
-skills: "Front end developer - UX/UI Designer - Lover "
+skills: "Front end developer - UX Designer - Podcaster "
 meta_author: Aspinall John
 
 # Google webmaster tools
@@ -34,26 +34,25 @@ footer:
   copyright: John Aspinall
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: My limited company
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/johnasp
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/aspinalljohn/
+  - title: codepen
+    url: http://codepen.io/johnasp/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/johnasp
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Poulton-le-Fylde
   - line: Lancashire, UK
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
 
 # Build settings
 markdown: kramdown
