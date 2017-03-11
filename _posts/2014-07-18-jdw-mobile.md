@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2015-06-01
 img: jdw-mob.jpg
 alt: Screenshot of mobile web site
@@ -9,6 +9,7 @@ client: JD Williams
 category: Mobile web
 tasks: Competitor analysis, user journeys, user testing, wireframes, visual design, prototypes, front-end build (HTML,CSS, JQuery), stakeholder management.
 description: Product search and navigation UX redesign on mobile specific website
+caption: UX & UI
 ---
 
 ## Project overview

@@ -1,35 +1,17 @@
 ---
 title: Responsive header prototype for ecommerce website
 layout: default
-modal-id: 2
+modal-id: 5
 date: 2015-06-01
-img: jdw-mob.jpg
+img: jdw-responsive-header.jpg
 alt: Screenshot of mobile web site
 project-date: June 2015
 client: JD Williams
 category: Responsive
 tasks: HTML,SASS, JQuery
 description: A fully functioning responsive header prototype to be used for the new proposed eCommerce site template. 
+caption: Respnsive Design
 ---  
-
-<table class="overview cols">
-  <tr>
-    <td>Project:</td>
-    <td>Responsive header prototype </td>  
-  </tr>  
-  <tr>
-    <td>My role:</td>
-    <td>Designer/Developer</td>
-  </tr> 
-  <tr>
-    <td>Client:</td>
-    <td>JD Williams</td>  
-  </tr> 
-  <tr>
-    <td>Tasks:</td>
-    <td>Design, HTML, CSS, Jquery</td>
-  </tr> 
-</table>
 
 #### Overview
 

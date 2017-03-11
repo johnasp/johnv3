@@ -1,29 +1,15 @@
 ---
-layout: portfolio
-title: Morrisons.com design concepts
-category: UX
-tag: portfolio
-excerpt: View a selection of visual concepts I designed for the (supposed) new Morrisons.com ecommerce website
----   
-
-<table class="overview cols">
-  <tr>
-    <td>Project:</td>
-    <td>Morrisons.com redesign</td>  
-  </tr>  
-  <tr>
-    <td>My role:</td>
-    <td>Digital designer</td>
-  </tr> 
-  <tr>
-    <td>Client:</td>
-    <td>Morrisons</td>  
-  </tr> 
-  <tr>
-    <td>Tasks:</td>
-    <td>Website concept design</td>
-  </tr> 
-</table>
+layout: default
+modal-id: 8
+date: 2015-06-01
+img: morrisons.jpg
+alt: Screenshot of web site
+project-date: 2015-06-01
+client: Morrisons
+category: Visual design
+tasks: Concepts
+caption: Visual Design
+---
 
 #### Overview
 

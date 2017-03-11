@@ -1,29 +1,18 @@
 ---
-layout: portfolio
-title: Kiddicare mobile app login forms
-category: UX
-tag: portfolio
-excerpt: View a couple of login forms I coded up for a Kiddicare mobile app, used in a web view.
----   
+layout: default
+modal-id: 9
+date: 2015-06-01
+img: kiddicare-forms.png
+alt: Screenshot of mobile web site
+project-date: June 2015
+client: Morrisons
+category: Mobile web
+tasks: HTML, CSS, SASS, design
+description: Front end login and registration forms for Kiddicare app
+caption: Responsive Design
+---
 
-<table class="overview cols">
-  <tr>
-    <td>Project:</td>
-    <td>Kiddicare mobile app</td>  
-  </tr>  
-  <tr>
-    <td>My role:</td>
-    <td>HTML forms designer</td>
-  </tr> 
-  <tr>
-    <td>Client:</td>
-    <td>Morrisons @ Kiddicare</td>  
-  </tr> 
-  <tr>
-    <td>Tasks:</td>
-    <td>HTML, CSS, SASS, design</td>
-  </tr> 
-</table>
+
 
 #### Overview
 

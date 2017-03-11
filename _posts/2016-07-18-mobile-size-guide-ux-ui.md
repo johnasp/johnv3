@@ -1,10 +1,16 @@
 ---
-layout: portfolio
-title: Mobile clothing size guide UX/UI
-category: UX
-tag: portfolio
-excerpt: Designed and built the UX and UI for a brand new size guide component for the clients' mobile specific eCommerce website. 
----  
+title: JD Williams responsive style guide
+layout: default
+modal-id: 2
+date: 2015-06-01
+img: size-guide.png
+alt: Screenshot of web site
+project-date: 2015-06-01
+client: JD Williams
+category: Bootstrap
+caption: Bootstrap
+tasks: Responsive design, bootstrap, css, html
+---
 
 I have been tasked with creating a responsive style guide for the suite of mobile specific website for an ecommerce client I am working with at the moment. I thought I'd document the whole process to map out my design and development work-flow and processes, from start to end.  
 
