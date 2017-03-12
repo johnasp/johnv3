@@ -2,8 +2,9 @@
 layout: default
 modal-id: 7
 date: 2015-06-01
-img: seasiders-podcast.jpg
-alt: Screenshot of web site
+img-thumb: seasiders-podcast-thumb.png
+img-full: seasiders-podcast.jpg
+alt: Screenshot of Seasiders Podcast website
 project-date: 
 client: Me
 category: Responsive

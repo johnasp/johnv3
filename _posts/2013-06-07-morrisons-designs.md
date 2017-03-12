@@ -2,8 +2,9 @@
 layout: default
 modal-id: 8
 date: 2015-06-01
-img: morrisons.jpg
-alt: Screenshot of web site
+img-full: morrisons.jpg
+img-thumb: morrisons-thumb.jpg
+alt: Screenshot of Morrisons website
 project-date: 2015-06-01
 client: Morrisons
 category: Visual design

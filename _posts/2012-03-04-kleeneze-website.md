@@ -2,7 +2,8 @@
 layout: default
 modal-id: 11
 date: 2015-06-01
-img: kleeneze.png
+img-thumb: kleeneze-thumb.jpg
+img-full: kleeneze.jpg
 alt: Screenshot of Kleeneze website
 project-date: June 2015
 client: Findel plc

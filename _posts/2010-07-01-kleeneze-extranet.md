@@ -2,7 +2,8 @@
 layout: default
 modal-id: 13
 date: 2010-06-01
-img: kleeneze-dsa.jpg
+img-thumb: kleeneze-dsa-thumb.jpg
+img-full: kleeneze-dsa.jpg
 alt: Screenshot of Kleeneze DSA
 project-date: 2010
 client: Kleeneze

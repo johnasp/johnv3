@@ -2,8 +2,9 @@
 layout: default
 modal-id: 16
 date: 2015-06-01
-img: regency-lodge-blackpool.jpg
-alt: Screenshot of regency lodge
+img-thumb: regency-lodge-blackpool-thumb.jpg
+img-full: regency-lodge-blackpool.jpg
+alt: Screenshot of Regency Lodge website
 project-date: 2008
 client: Regency Lodge Hospital
 category: Web Design

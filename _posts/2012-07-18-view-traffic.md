@@ -2,8 +2,9 @@
 layout: default
 modal-id: 10
 date: 2015-06-01
-img: vt.jpg
-alt: Screenshot of regency lodge
+img-thumb: vt-thumb.jpg
+img-full: vt.jpg
+alt: Screenshot of View Traffic website
 project-date: 2008
 client: Pulse Media
 category: Web Design
