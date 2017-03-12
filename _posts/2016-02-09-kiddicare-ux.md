@@ -2,8 +2,9 @@
 layout: default
 modal-id: 3
 date: 2015-06-01
-img: wires-kid/plp-t.png
-alt: Screenshot of web site
+img-full: kiddicare-wire.png
+img-thumb: kiddicare-wire-thumb.png
+alt: Screenshot of Kiddicare wireframe
 project-date: 2015-06-01
 client: Morrisons
 category: Visual design

@@ -3,8 +3,9 @@ title: Responsive header prototype for ecommerce website
 layout: default
 modal-id: 5
 date: 2015-06-01
-img: jdw-responsive-header.jpg
-alt: Screenshot of mobile web site
+img-thumb: jdw-responsive-header-thumb.jpg
+img-full: jdw-responsive-header.jpg
+alt: Screenshot of responsive header prototype
 project-date: June 2015
 client: JD Williams
 category: Responsive

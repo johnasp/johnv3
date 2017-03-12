@@ -2,7 +2,8 @@
 layout: default
 modal-id: 6
 date: 2015-06-01
-img: jdw-mob.jpg
+img-thumb: jdw-mob-thumb.jpg
+img-full: jdw-mob.jpg
 alt: Screenshot of mobile web site
 project-date: June 2015
 client: JD Williams

@@ -3,8 +3,9 @@ title: JD Williams responsive style guide
 layout: default
 modal-id: 2
 date: 2015-06-01
-img: size-guide.png
-alt: Screenshot of web site
+img-thumb: size-guide-thumb.png
+img-full: size-guide.png
+alt: Screenshot of size guide prototype
 project-date: 2015-06-01
 client: JD Williams
 category: Bootstrap
