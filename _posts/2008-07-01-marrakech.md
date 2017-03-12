@@ -2,7 +2,8 @@
 layout: default
 modal-id: 18
 date: 2007-06-01
-img: marrakech.jpg
+img-thumb: marrakech-thumb.jpg
+img-full: marrakech.jpg
 alt: Screenshot of Marrakech 2007 website
 project-date: July 2008
 client: Kleeneze
